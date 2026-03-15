@@ -1,0 +1,57 @@
+[
+  {
+    "call_file": "call_01.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "call_02.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "call_03.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "call_04.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "call_05.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "call_06.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "call_07.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "call_08.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "call_09.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "call_10.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  },
+  {
+    "call_file": "_manifest.json",
+    "evaluation": "good",
+    "expected_verdict": null
+  }
+]
