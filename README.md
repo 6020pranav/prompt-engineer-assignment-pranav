@@ -1,3 +1,13 @@
+# Prompt Engineering Assignment – Riverline
+
+This repository contains my solution for the Riverline Prompt Engineering Intern assignment.
+
+The project analyzes the system prompt used by an AI voice agent for education loan collection calls and proposes improvements based on transcript analysis.
+
+
+
+
+
 # The Prompt Autopsy
 
 **Role:** Prompt Engineering Intern @ [Riverline](https://riverline.ai)
